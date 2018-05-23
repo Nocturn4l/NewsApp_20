@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">NewsApp_1.0</string>
+    <string name="no_connection">No Internet Connection.</string>
+    <string name="no_news">No news found, please try again later.</string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_activity_title">News Settings</string>
+    <string name="listpreference_key">section</string>
+    <string name="settings_order" translatable="false">Order</string>
+    <string name="settings_fragment_title">News Topic</string>
+
+    <string name="number_picker_key">key_number</string>
+    <string name="number_picker_title">Number of articles to display</string>
+
+
+    <string name="section_value_1">artanddesign</string>
+    <string name="section_value_2">books</string>
+    <string name="section_value_3">business</string>
+    <string name="section_value_4">cities</string>
+    <string name="section_value_5">culture</string>
+    <string name="section_value_6">education</string>
+    <string name="section_value_7">environment</string>
+    <string name="section_value_8">film</string>
+    <string name="section_value_9">music</string>
+    <string name="section_value_10">science</string>
+    <string name="section_value_11">technology</string>
+
+    <string name="section_name_1">Art and Design</string>
+    <string name="section_name_2">Books</string>
+    <string name="section_name_3">Business</string>
+    <string name="section_name_4">Cities</string>
+    <string name="section_name_5">Culture</string>
+    <string name="section_name_6">Education</string>
+    <string name="section_name_7">Environment</string>
+    <string name="section_name_8">Film</string>
+    <string name="section_name_9">Music</string>
+    <string name="section_name_10">Science</string>
+    <string name="section_name_11">Technology</string>
+</resources>

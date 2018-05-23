@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sections_values">
+        <item>@string/section_value_1</item>
+        <item>@string/section_value_2</item>
+        <item>@string/section_value_3</item>
+        <item>@string/section_value_4</item>
+        <item>@string/section_value_5</item>
+        <item>@string/section_value_6</item>
+        <item>@string/section_value_7</item>
+        <item>@string/section_value_8</item>
+        <item>@string/section_value_9</item>
+        <item>@string/section_value_10</item>
+        <item>@string/section_value_11</item>
+    </string-array>
+
+    <string-array name="sections_name">
+        <item>@string/section_name_1</item>
+        <item>@string/section_name_2</item>
+        <item>@string/section_name_3</item>
+        <item>@string/section_name_4</item>
+        <item>@string/section_name_5</item>
+        <item>@string/section_name_6</item>
+        <item>@string/section_name_7</item>
+        <item>@string/section_name_8</item>
+        <item>@string/section_name_9</item>
+        <item>@string/section_name_10</item>
+        <item>@string/section_name_11</item>
+    </string-array>
+</resources>

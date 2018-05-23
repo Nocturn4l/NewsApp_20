@@ -1,0 +1,15 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings_activity_title">
+
+    <ListPreference
+        android:defaultValue="@string/section_value_11"
+        android:entries="@array/sections_name"
+        android:entryValues="@array/sections_values"
+        android:key="@string/listpreference_key"
+        android:title="@string/settings_fragment_title" />
+    <com.example.dovah.newsapp_10.NumberPickerPreference
+        android:defaultValue="10"
+        android:key="@string/number_picker_key"
+        android:title="@string/number_picker_title" />
+
+</PreferenceScreen>
